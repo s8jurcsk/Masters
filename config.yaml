@@ -1,0 +1,7 @@
+train: C:\Users\MalcovAdmin\fiftyone\coco-2017\trainOld
+val: C:\Users\MalcovAdmin\fiftyone\coco-2017\validation
+
+# Classes that the model is being trained for
+names:
+  0: background
+  1: person
